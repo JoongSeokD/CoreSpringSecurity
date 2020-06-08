@@ -2,5 +2,5 @@ package io.security.corespringsecurity.domain;
 
 
 public enum AccountRole {
-    USER, MANAGER, ADMIN
+    ROLE_USER, MANAGER, ADMIN
 }
