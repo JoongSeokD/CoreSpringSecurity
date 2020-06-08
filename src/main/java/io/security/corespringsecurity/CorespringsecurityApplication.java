@@ -10,4 +10,5 @@ public class CorespringsecurityApplication {
 		SpringApplication.run(CorespringsecurityApplication.class, args);
 	}
 
+
 }
